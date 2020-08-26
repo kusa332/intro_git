@@ -1,1 +1,3 @@
-GITの練習
+GITの練習wosuru
+git add
+git commit
