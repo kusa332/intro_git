@@ -2,3 +2,4 @@ GITの練習wosuru
 git add
 git commit
 git status
+git diff
